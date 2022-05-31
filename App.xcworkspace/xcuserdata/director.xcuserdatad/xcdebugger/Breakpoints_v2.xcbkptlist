@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4ECA35F-E5CF-4121-A3BE-C7D7A665C6DE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppTests/AppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - c45efbf6cab30e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - e6dfa07050201f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - f9531a84d62eb620"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.__allocating_init(selector: ObjectiveC.Selector) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 5ac964e2c1ce5305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init(selector: ObjectiveC.Selector) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 8c5cf2f52803b8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.__allocating_init() -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 54d3ca748bd2606e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init() -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 98a107455285c5e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.__deallocating_deinit"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - e6dfa07050201f47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 5ac964e2c1ce53c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init(selector: ObjectiveC.Selector) -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6CD282EF-DDB6-40F8-B42E-44E57FDCEEC5 - 54d3ca748bd260ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppTests.AppTests.init() -&gt; AppTests.AppTests"
+                  moduleName = "AppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/director/Desktop/App/AppTests/AppTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
